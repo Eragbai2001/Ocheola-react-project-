@@ -7,10 +7,10 @@ export default {
         "custom-bg": "hsl(218, 23%, 16%)",
         "customary-bg": "hsl(217, 19%, 24%)",
         "customary-lg": " hsl(150, 100%, 66%)",
-        "color": " hsl(193, 38%, 86%)",
+        color: " hsl(193, 38%, 86%)",
       },
       spacing: {
-        128: "5rem", // Custom size for 32rem
+        128: "32rem", // Custom size for 32rem
         144: "57px", // Custom size for 36rem
         142: "52px", // Custom size for 36rem
       },
