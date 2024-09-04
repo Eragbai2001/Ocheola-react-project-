@@ -1,5 +1,5 @@
 import React from "react";
-import HashLoader from "react-spinners/HashLoader";
+import ClipLoader from "react-spinners/HashLoader";
 const override = {
   display: "block",
   margin: "100px auto ",
@@ -7,7 +7,7 @@ const override = {
 
 const Spinner = ({ loading }) => {
   return (
-    <HashLoader
+    <ClipLoader
       color="#4338ca"
       loading={loading}
       cssOverride={override}
