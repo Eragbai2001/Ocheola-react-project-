@@ -7,7 +7,7 @@ export default {
         "custom-bg": "hsl(218, 23%, 16%)",
         "customary-bg": "hsl(217, 19%, 24%)",
         "customary-lg": " hsl(150, 100%, 66%)",
-        color: " hsl(193, 38%, 86%)",
+        "color": " hsl(193, 38%, 86%)",
       },
       spacing: {
         128: "5rem", // Custom size for 32rem
