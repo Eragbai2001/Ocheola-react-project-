@@ -10,7 +10,7 @@ export default {
         color: " hsl(193, 38%, 86%)",
       },
       spacing: {
-        128: "30rem", // Custom size for 32rem
+        128: "5rem", // Custom size for 32rem
         144: "57px", // Custom size for 36rem
         142: "52px", // Custom size for 36rem
       },
